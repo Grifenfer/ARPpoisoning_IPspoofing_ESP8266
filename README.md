@@ -9,4 +9,6 @@ ARP_poisoning.py is the pyhton script that performs ARP poisoning
 sen_ip_packet.py is the python script that performs UDP packet forgering <br /> <br />
 
 
-The arduino files () are used to configure both ESP8266's
+The .ino files are used to configure both ESP8266's: <br />
+&emsp; listening_esp.ino is used to configure the listening ESP8266 <br />
+&emsp; sending_esp.ino is used to configure the sending ESP8266 <br />
