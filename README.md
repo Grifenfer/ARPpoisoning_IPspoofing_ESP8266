@@ -3,9 +3,8 @@ This repo describes how to perform ARP poisoning and UDP packet forgering on ESP
 
 The pdf file describes in details the project and shows the results <br /> <br />
 
-
-ARP_poisoning.py is the pyhton script that performs ARP poisoning
-
+The .py files are used to <br />
+ARP_poisoning.py is the pyhton script that performs ARP poisoning<br />
 sen_ip_packet.py is the python script that performs UDP packet forgering <br /> <br />
 
 
